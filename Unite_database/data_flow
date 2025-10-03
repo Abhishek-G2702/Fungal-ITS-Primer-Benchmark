@@ -16,7 +16,7 @@ UNITE-REFINED_PRIMERS/
 │   ├── dididid.py
 │  
 ├── 📊 results/ ##code1.py_results##
-│   ├── 📁 primer_search_results_code1/
+│   ├── 📁 01_primer_search_results_code1/
 │   │   ├── individual_primer_results_all/
 │   │   ├── primer_pair_results_all/ 
 │   │   ├── primer_pair_results_pathogens/
