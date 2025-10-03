@@ -59,11 +59,11 @@ G)Pathlib                 l)Timedelta
 
 🔗Data Sources:
 |--------|---------------|---------------------|
-|Database| Total Species |	Pathogenic Species |
+|Database| Total Species | Pathogenic Species  |
 |--------|---------------|---------------------|
-|UNITE	 |     168,030   |	   1,640           |
+| UNITE  |    168,030    |       1,640         |
 |--------|---------------|---------------------|
-|NCBI	   |     18,605	   |      559            |
+| NCBI   |    18,605     |        559          |
 |--------|---------------|---------------------|
 
 📌List of Universal Primer:
@@ -84,7 +84,7 @@ G)Pathlib                 l)Timedelta
 | ITS3 (F)   | GCATCGATGAAGAACGCAGC              | LR3 (R)    | CCGTGTTCAGACAGGGG                 |
 |------------|-----------------------------------|------------|-----------------------------------|
 
-forkflow
+workflow
 🧪 Primer Evaluation & Coverage Workflow
 1. Database Collection & Preparation
 
