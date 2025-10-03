@@ -1,0 +1,78 @@
+UNITE-REFINED_PRIMERS/
+├── 📁 data/
+│   ├── pathogenic_fungi_sequences.fasta
+│   ├── UNITE_database_fasta_file.fasta
+│   └── primer_ITS
+├── 🔧 scripts/
+│   ├── code1.py                 # Primer search
+│   ├── code2.py                 # Coverage analysis  
+│   ├── code3.py                 # Primer analysis
+│   ├── code4_new.py             # Primer coverage
+|   ├── code5_missmatch.py       #Mismatch analysis
+│   ├── code6_mismtch_graph.py   # Mismatch graph
+|   ├── code1_missmatch.py       #mismatch for pathogenic fungi
+|   ├── code2.py                 #it visualize mismatch in pathogenic fungal species
+│   ├── intro_code.py            # Introductory analysis
+│   ├── dididid.py
+│  
+├── 📊 results/ ##code1.py_results##
+│   ├── 📁 primer_search_results_code1/
+│   │   ├── individual_primer_results_all/
+│   │   ├── primer_pair_results_all/ 
+│   │   ├── primer_pair_results_pathogens/
+│   │   └── primer_pair_summary/
+│   ├── 📁 02_coverage_analysis/18may_final_code2_baaaarplot-1/ ##code2.py_results##
+│   │   ├── all_species_coverage.png
+│   │   ├── all_species_results.xlsx
+│   │   ├── pathogens_coverage.png
+|   |   ├── calculation_explanation
+│   │   └── pathogens_results.xlsx
+│   ├── 📁 03_primer_analysis/primer_analysis_results_code3/ ##code3.py_results##
+│   │   ├── 📁Aspergillus
+│   │   ├── 📁Blastomyces
+│   │   ├── 📁Candida
+|   |   ├── 📁Cryptococcus
+|   |   ├── 📁Histoplasma
+|   |   ├── all_genera_counts.xlsx
+|   |   ├── CBHPACA_genus_counts.lsx
+|   |   ├── genus_primer_heatmap.png
+|   |   └── genus_primer_heatmap_data
+|   |  
+│   │   
+│   ├── 📁 04_introductory_graph_results/introductory results/##intro.py_results##
+│   │   └── ig_code4.png/
+│   ├── 📁 05_missmatch_analysis/all_species_missmatch/##code5_missmatch.py##
+│   │   └── 📁code5_missmatch_Primer_Results/
+|   |          ├── ITS1F (F)-ITS2(R)/ITS1F (F)-ITS2(R)_results.xslx
+|   |          ├── ITS3 (F)-ITS4(R)/ITS3 (F)-ITS4(R)_results.xlsx
+|   |          ├── ITS3(F)-LR3(R)/ITS3(F)-LR3(R)_results.xlsx
+|   |          ├── ITS5(F)-ITS4(R)/ITS5(F)-ITS4(R)_results.xlsx
+|   |          ├── ITS86F(F)-ITS4(R)/ITS86F(F)-ITS4(R)_results.xlsx
+|   |          ├── NS7(F)-ITS2(R)/NS7(F)-ITS2(R)_results.xlsx
+│   └── 📁 06_mismatchvisualization/code_6_result_all_species/##code6_mismtch_graph.py_results##
+│   |     ├── 📁code_6_result_all_species/
+│   |     └── Primer_Pair_Presence.png /
+|   |
+|   ├── 📁 07_missmatch_for_pathogenic_fungi
+|   |      ├── 📁 code1_Primer_Results/##code1_missmatch.py_results## 
+|   |      |          ├──ITS1F (F)-ITS2(R)/ITS1F (F)-ITS2(R)_results
+|   |      |          ├──ITS3 (F)-ITS4(R)/ITS3 (F)-ITS4(R)_results
+|   |      |          ├──ITS3(F)-LR3(R)/ITS3(F)-LR3(R)_results
+|   |      |          ├──ITS5(F)-ITS4(R)/ITS5(F)-ITS4(R)_results
+|   |      |          ├──ITS86F(F)-ITS4(R)/ITS86F(F)-ITS4(R)_results
+|   |      |          ├──NS7(F)-ITS2(R)/NS7(F)-ITS2(R)_results
+|   |      ├── 📁code2_result/##code2.py##
+|   |      |       ├──code2_Primer_Pair_Presence_Summary.xlsx
+|   |      |       └── Primer_Pair_Presence.png
+|   |      |   
+|   |      ├── 📁 08_species_without_primer_after_missmatch/##dididid.py##
+|   |              └── Species_Without_Primer_Pairs.xlsx
+|   |
+|   |
+├── 📄 README.md
+└── 📄 requirements.txt
+
+
+
+
+  
