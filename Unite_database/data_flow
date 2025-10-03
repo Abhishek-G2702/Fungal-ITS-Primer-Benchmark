@@ -49,11 +49,11 @@ UNITE-REFINED_PRIMERS/
 |   |          ├── ITS5(F)-ITS4(R)/ITS5(F)-ITS4(R)_results.xlsx
 |   |          ├── ITS86F(F)-ITS4(R)/ITS86F(F)-ITS4(R)_results.xlsx
 |   |          ├── NS7(F)-ITS2(R)/NS7(F)-ITS2(R)_results.xlsx
-│   └── 📁 06_mismatchvisualization/code_6_result_all_species/##code6_mismtch_graph.py_results##
+│   └── 📁 mismatch_visualization_for_all/code_6_result_all_species/##code6_mismtch_graph.py_results##
 │   |     ├── 📁code_6_result_all_species/
 │   |     └── Primer_Pair_Presence.png /
 |   |
-|   ├── 📁 07_missmatch_for_pathogenic_fungi
+|   ├── 📁 missmatch_for_pathogenic_fungi
 |   |      ├── 📁 code1_Primer_Results/##code1_missmatch.py_results## 
 |   |      |          ├──ITS1F (F)-ITS2(R)/ITS1F (F)-ITS2(R)_results
 |   |      |          ├──ITS3 (F)-ITS4(R)/ITS3 (F)-ITS4(R)_results
