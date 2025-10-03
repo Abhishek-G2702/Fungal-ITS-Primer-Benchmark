@@ -85,7 +85,7 @@ Pathogenic Species: 559
 |------------|-----------------------------------|------------|-----------------------------------|
 
 workflow
-🧪 Primer Evaluation & Coverage Workflow
+ Primer Evaluation & Coverage Workflow
 1. Database Collection & Preparation
 
 📥 Gather sequence data:
