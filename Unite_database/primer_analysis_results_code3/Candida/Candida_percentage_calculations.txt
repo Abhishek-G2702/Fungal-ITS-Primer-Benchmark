@@ -1,0 +1,27 @@
+Percentage Calculations for Candida
+==================================================
+
+Primer Pair: ITS1F (F)-ITS2(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (29 / 514) * 100 = 5.64%
+
+Primer Pair: ITS3 (F)-ITS4(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (85 / 514) * 100 = 16.54%
+
+Primer Pair: ITS86F(F)-ITS4(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (71 / 514) * 100 = 13.81%
+
+Primer Pair: ITS5(F)-ITS4(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (23 / 514) * 100 = 4.47%
+
+Primer Pair: NS7(F)-ITS2(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (4 / 514) * 100 = 0.78%
+
+Primer Pair: ITS3(F)-LR3(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (4 / 514) * 100 = 0.78%
+

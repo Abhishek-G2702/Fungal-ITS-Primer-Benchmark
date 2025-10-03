@@ -1,0 +1,27 @@
+Percentage Calculations for Histoplasma
+==================================================
+
+Primer Pair: ITS1F (F)-ITS2(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (0 / 16) * 100 = 0.00%
+
+Primer Pair: ITS3 (F)-ITS4(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (1 / 16) * 100 = 6.25%
+
+Primer Pair: ITS86F(F)-ITS4(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (2 / 16) * 100 = 12.50%
+
+Primer Pair: ITS5(F)-ITS4(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (0 / 16) * 100 = 0.00%
+
+Primer Pair: NS7(F)-ITS2(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (0 / 16) * 100 = 0.00%
+
+Primer Pair: ITS3(F)-LR3(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (0 / 16) * 100 = 0.00%
+

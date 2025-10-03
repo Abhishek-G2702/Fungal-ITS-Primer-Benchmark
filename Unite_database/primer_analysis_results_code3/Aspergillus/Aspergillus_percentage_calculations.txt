@@ -1,0 +1,27 @@
+Percentage Calculations for Aspergillus
+==================================================
+
+Primer Pair: ITS1F (F)-ITS2(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (3 / 1034) * 100 = 0.29%
+
+Primer Pair: ITS3 (F)-ITS4(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (210 / 1034) * 100 = 20.31%
+
+Primer Pair: ITS86F(F)-ITS4(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (1 / 1034) * 100 = 0.10%
+
+Primer Pair: ITS5(F)-ITS4(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (23 / 1034) * 100 = 2.22%
+
+Primer Pair: NS7(F)-ITS2(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (0 / 1034) * 100 = 0.00%
+
+Primer Pair: ITS3(F)-LR3(R)
+Formula: (Number of species with both primers present / Total number of species in genus) * 100
+Calculation: (7 / 1034) * 100 = 0.68%
+
