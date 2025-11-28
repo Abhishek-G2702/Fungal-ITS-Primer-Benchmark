@@ -1,0 +1,18 @@
+Primer Pair Analysis - Detailed Explanation
+==================================================
+
+1. COUNT CALCULATION:
+   - For each primer pair column, count how many cells contain 'Found'
+   - Missing/empty cells are not counted
+
+2. PERCENTAGE CALCULATION:
+   Formula: (Count / Total Species) × 100
+
+3. SPECIFIC VALUES USED:
+   - Total fungal species: 168030
+   - Total pathogenic fungi: 1640
+
+4. OUTPUT FILES:
+   - Excel files with raw counts and percentages
+   - Bar plots showing visual comparison
+   - This explanation file
